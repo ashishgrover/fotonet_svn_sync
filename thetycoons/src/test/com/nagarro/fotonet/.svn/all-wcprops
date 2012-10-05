@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/techfest2012/!svn/ver/25/teams/thetycoons/src/test/com/nagarro/fotonet
+END
+UserDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/techfest2012/!svn/ver/25/teams/thetycoons/src/test/com/nagarro/fotonet/UserDaoTest.java
+END
+AlbumDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/techfest2012/!svn/ver/25/teams/thetycoons/src/test/com/nagarro/fotonet/AlbumDaoTest.java
+END
+JpaUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/techfest2012/!svn/ver/12/teams/thetycoons/src/test/com/nagarro/fotonet/JpaUtilTest.java
+END
+FotonetTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/techfest2012/!svn/ver/17/teams/thetycoons/src/test/com/nagarro/fotonet/FotonetTestBase.java
+END
+PhotoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/techfest2012/!svn/ver/25/teams/thetycoons/src/test/com/nagarro/fotonet/PhotoDaoTest.java
+END

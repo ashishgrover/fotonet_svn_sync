@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/techfest2012/!svn/ver/36/teams/thetycoons/webapp/WEB-INF
+END
+decorators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/techfest2012/!svn/ver/12/teams/thetycoons/webapp/WEB-INF/decorators.xml
+END
+mvc-dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/techfest2012/!svn/ver/36/teams/thetycoons/webapp/WEB-INF/mvc-dispatcher-servlet.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/techfest2012/!svn/ver/36/teams/thetycoons/webapp/WEB-INF/web.xml
+END

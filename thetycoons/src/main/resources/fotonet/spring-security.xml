@@ -1,0 +1,30 @@
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+	xmlns:beans="http://www.springframework.org/schema/beans" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
+	http://www.springframework.org/schema/security
+	http://www.springframework.org/schema/security/spring-security-3.1.xsd">
+
+<!--        Allowed URLs-->
+        <http pattern="/index.jsp" security="none"/>
+        <http pattern="/favicon.ico" security="none"/>
+ 
+<!--        Restricted URLs-->
+	<http auto-config="true">
+                <intercept-url pattern="/*" access="ROLE_USER" />
+	</http>
+
+<!--        LDAP Configuration-->
+	<ldap-server id="ldapServer" url="ldap://ashish1813:20389/dc=springrecipes,dc=com" />
+	<authentication-manager>
+           <ldap-authentication-provider 
+                server-ref="ldapServer"
+                user-search-filter="(uid={0})"
+                group-search-base="ou=groups"
+                group-role-attribute="cn"
+                group-search-filter="(uniqueMember={0})" 
+                role-prefix="ROLE_"/>
+	</authentication-manager>
+ 
+</beans:beans>

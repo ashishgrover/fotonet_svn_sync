@@ -1,0 +1,18 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <!-- <bean id="userService" name="userService" class="com.nagarro.fotonet.services.impl.UserServiceImpl">
+        <property name="userDao" ref="userDao"/>
+    </bean>
+    
+    <bean id="photoService" name="photoService" class="com.nagarro.fotonet.services.impl.PhotoServiceImpl">
+        <property name="photoDao" ref="photoDao"/>
+    </bean>
+    
+    <bean id="albumService" name="albumService" class="com.nagarro.fotonet.services.impl.AlbumServiceImpl">
+        <property name="albumDao" ref="albumDao"/>
+    </bean> -->
+
+</beans>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/techfest2012/!svn/ver/52/teams/thetycoons/src/main/java/com/nagarro/fotonet/dao/impl
+END
+PhotoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/techfest2012/!svn/ver/50/teams/thetycoons/src/main/java/com/nagarro/fotonet/dao/impl/PhotoDaoImpl.java
+END
+AbstractGenericDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/dao/impl/AbstractGenericDao.java
+END
+UserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/techfest2012/!svn/ver/52/teams/thetycoons/src/main/java/com/nagarro/fotonet/dao/impl/UserDaoImpl.java
+END
+AlbumDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/techfest2012/!svn/ver/50/teams/thetycoons/src/main/java/com/nagarro/fotonet/dao/impl/AlbumDaoImpl.java
+END

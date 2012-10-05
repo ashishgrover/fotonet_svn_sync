@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/techfest2012/!svn/ver/50/teams/thetycoons/webapp/jsp/common
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/techfest2012/!svn/ver/50/teams/thetycoons/webapp/jsp/common/header.jsp
+END
+contentDecorator.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/techfest2012/!svn/ver/12/teams/thetycoons/webapp/jsp/common/contentDecorator.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/techfest2012/!svn/ver/50/teams/thetycoons/webapp/jsp/common/footer.jsp
+END

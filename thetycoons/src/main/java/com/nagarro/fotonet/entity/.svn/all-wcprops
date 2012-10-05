@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/techfest2012/!svn/ver/52/teams/thetycoons/src/main/java/com/nagarro/fotonet/entity
+END
+AbstractEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/techfest2012/!svn/ver/12/teams/thetycoons/src/main/java/com/nagarro/fotonet/entity/AbstractEntity.java
+END
+Album.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/entity/Album.java
+END
+MediaSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/entity/MediaSettings.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/entity/Comment.java
+END
+Photo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/techfest2012/!svn/ver/50/teams/thetycoons/src/main/java/com/nagarro/fotonet/entity/Photo.java
+END
+AbstractChangeableEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/techfest2012/!svn/ver/12/teams/thetycoons/src/main/java/com/nagarro/fotonet/entity/AbstractChangeableEntity.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/entity/Tag.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/techfest2012/!svn/ver/52/teams/thetycoons/src/main/java/com/nagarro/fotonet/entity/User.java
+END

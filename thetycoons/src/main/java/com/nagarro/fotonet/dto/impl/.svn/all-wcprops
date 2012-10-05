@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/dto/impl
+END
+PhotoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/dto/impl/PhotoDTO.java
+END
+TagDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/dto/impl/TagDTO.java
+END
+UserDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/dto/impl/UserDTO.java
+END
+AlbumDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/dto/impl/AlbumDTO.java
+END
+CommentDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/java/com/nagarro/fotonet/dto/impl/CommentDTO.java
+END

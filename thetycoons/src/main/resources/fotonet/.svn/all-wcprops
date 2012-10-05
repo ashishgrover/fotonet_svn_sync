@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/techfest2012/!svn/ver/43/teams/thetycoons/src/main/resources/fotonet
+END
+spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/techfest2012/!svn/ver/36/teams/thetycoons/src/main/resources/fotonet/spring.xml
+END
+spring-services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/resources/fotonet/spring-services.xml
+END
+spring-daos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/techfest2012/!svn/ver/29/teams/thetycoons/src/main/resources/fotonet/spring-daos.xml
+END
+spring-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/techfest2012/!svn/ver/43/teams/thetycoons/src/main/resources/fotonet/spring-security.xml
+END

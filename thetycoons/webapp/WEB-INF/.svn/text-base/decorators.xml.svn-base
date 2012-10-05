@@ -1,0 +1,5 @@
+<decorators>
+	<decorator name="content" page="/jsp/common/contentDecorator.jsp">
+		<pattern>*</pattern>
+	</decorator>
+</decorators>
