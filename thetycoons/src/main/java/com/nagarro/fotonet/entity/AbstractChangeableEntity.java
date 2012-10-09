@@ -7,6 +7,7 @@ import java.util.Date;
 
 import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;
+import javax.persistence.Temporal;
 
 /**
  * @author shalini1814
@@ -16,9 +17,11 @@ import javax.persistence.MappedSuperclass;
 public class AbstractChangeableEntity extends AbstractEntity {
 
     @Column(name = "created_on")
+    @Temporal(javax.persistence.TemporalType.DATE)
     protected Date createdOn;
 
     @Column(name = "modified_on")
+    @Temporal(javax.persistence.TemporalType.DATE)
     protected Date modifiedOn;
 
     public Date getCreatedOn() {

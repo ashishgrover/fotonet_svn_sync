@@ -1,14 +1,14 @@
 10
 
 dir
-59
+71
 http://svn.ggn.nagarro.com:8080/svn/techfest2012/teams/thetycoons/db
 http://svn.ggn.nagarro.com:8080/svn/techfest2012
 
 
 
-2012-10-03T04:45:20.307100Z
-52
+2012-10-09T04:49:56.258387Z
+69
 shalini1814
 
 
@@ -25,6 +25,40 @@ shalini1814
 
 
 0f1f765f-ed5f-4b21-8cbf-ec93081f00da
+
+dbscript_newmodel.sql
+file
+
+
+
+
+2012-10-09T09:33:40.198219Z
+994d6418ece4e906ca8573a8c36dc420
+2012-10-09T04:49:56.258387Z
+69
+shalini1814
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4967
 
 dbscripts.sql
 file
